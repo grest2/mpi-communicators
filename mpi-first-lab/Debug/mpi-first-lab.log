@@ -1,0 +1,6 @@
+﻿  maincpp.cpp
+D:\Github\mpi-first-lab\mpi-first-lab\maincpp.cpp(125,13): warning C4101: status: неиспользованная локальная переменная
+  MatrixOperations.cpp
+D:\Github\mpi-first-lab\mpi-first-lab\MatrixOperations.cpp(23,29): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  mpi-first-lab.vcxproj -> D:\Github\mpi-first-lab\Debug\mpi-first-lab.exe
